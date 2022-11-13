@@ -16,7 +16,7 @@ nav {
     grid-template-columns: 30% 60%;
     -webkit-column-gap: 10%;
     column-gap: 10%;
-    padding: 0% -7%;
+    padding: 8% -7%;
 }
 
 nav .array-inputs {
